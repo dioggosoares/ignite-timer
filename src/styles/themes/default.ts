@@ -10,12 +10,14 @@ export const defaultTheme = {
   'gray-800': '#202024',
   'gray-900': '#121214',
 
-  'green-300': '#00B37E',
-  'green-500': '#00875F',
-  'green-700': '#015F43',
+  'primary-300': '#00B37E',
+  'primary-500': '#00875F',
+  'primary-700': '#015F43',
 
-  'red-500': '#AB222E',
-  'red-700': '#7A1921',
+  'green-success': '#04D361',
+  'yellow-progress': '#FBA94C',
+  'red-interrupted': '#AB222E',
 
-  'yellow-500': '#FBA94C',
+  'danger-500': '#AB222E',
+  'danger-700': '#7A1921',
 }
