@@ -15,13 +15,13 @@ export const HistoryContainer = styled.main`
 
 export const HistoryList = styled.div`
   flex: 1;
-  overflow: auto;
   margin-top: 2rem;
+  overflow: auto;
 
   table {
     width: 100%;
     border-collapse: collapse;
-    min-width: 600px;
+    min-width: 37.5rem;
 
     th {
       background-color: ${(props) => props.theme['gray-600']};
